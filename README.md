@@ -6,7 +6,11 @@ main.py - Main code
 Screenshot 2024-11-02 112328.png - Streamlit app ui
 
 Cost: Approximately $6 to $18 per 100 invoices for OpenAI API, with additional hosting/storage costs.
+
 Accuracy: 85-95% overall, with some fields more prone to errors.
+
+
+
 
 
 Features
