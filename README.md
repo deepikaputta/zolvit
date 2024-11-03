@@ -2,7 +2,9 @@ Invoice Data Extraction App - This project is a web application built with Strea
 
 
 main.py - Main code 
+
 2024-11-02T05-46_export.csv-extracted and segregated csv file
+
 Screenshot 2024-11-02 112328.png - Streamlit app ui
 
 Cost: Approximately $6 to $18 per 100 invoices for OpenAI API, with additional hosting/storage costs.
