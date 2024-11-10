@@ -22,10 +22,16 @@ Payment Details (UPI ID, Bank Account, IFSC Code, Bank Name, Branch)
 Retry Logic: Implements retry mechanisms for API calls in case of JSON decoding errors.
 Data Display: Presents the extracted data in a DataFrame for easy viewing.
 Download CSV: Allows users to download the extracted data in CSV format.
+
+
+
 Files and Resources
 main.py: The main code file of the application.
 2024-11-02T05-46_export.csv: The extracted and segregated CSV file.
 Screenshot 2024-11-02 112328.png: A screenshot of the Streamlit app UI.
+
+
+
 Installation
 Clone the Repository
 bash
